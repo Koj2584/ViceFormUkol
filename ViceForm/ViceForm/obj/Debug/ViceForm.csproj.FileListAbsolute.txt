@@ -1,0 +1,11 @@
+G:\Dokumenty\Csharp\ViceForm\ViceForm\bin\Debug\ViceForm.exe.config
+G:\Dokumenty\Csharp\ViceForm\ViceForm\bin\Debug\ViceForm.exe
+G:\Dokumenty\Csharp\ViceForm\ViceForm\bin\Debug\ViceForm.pdb
+G:\Dokumenty\Csharp\ViceForm\ViceForm\obj\Debug\ViceForm.csprojAssemblyReference.cache
+G:\Dokumenty\Csharp\ViceForm\ViceForm\obj\Debug\ViceForm.Form1.resources
+G:\Dokumenty\Csharp\ViceForm\ViceForm\obj\Debug\ViceForm.Properties.Resources.resources
+G:\Dokumenty\Csharp\ViceForm\ViceForm\obj\Debug\ViceForm.csproj.GenerateResource.cache
+G:\Dokumenty\Csharp\ViceForm\ViceForm\obj\Debug\ViceForm.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Csharp\ViceForm\ViceForm\obj\Debug\ViceForm.exe
+G:\Dokumenty\Csharp\ViceForm\ViceForm\obj\Debug\ViceForm.pdb
+G:\Dokumenty\Csharp\ViceForm\ViceForm\obj\Debug\ViceForm.Form2.resources
