@@ -9,3 +9,15 @@ G:\Dokumenty\Csharp\ViceForm\ViceForm\obj\Debug\ViceForm.csproj.CoreCompileInput
 G:\Dokumenty\Csharp\ViceForm\ViceForm\obj\Debug\ViceForm.exe
 G:\Dokumenty\Csharp\ViceForm\ViceForm\obj\Debug\ViceForm.pdb
 G:\Dokumenty\Csharp\ViceForm\ViceForm\obj\Debug\ViceForm.Form2.resources
+C:\Users\kubik\Source\Repos\ViceFormUkol\ViceForm\ViceForm\bin\Debug\ViceForm.exe.config
+C:\Users\kubik\Source\Repos\ViceFormUkol\ViceForm\ViceForm\bin\Debug\ViceForm.exe
+C:\Users\kubik\Source\Repos\ViceFormUkol\ViceForm\ViceForm\bin\Debug\ViceForm.pdb
+C:\Users\kubik\Source\Repos\ViceFormUkol\ViceForm\ViceForm\obj\Debug\ViceForm.csproj.AssemblyReference.cache
+C:\Users\kubik\Source\Repos\ViceFormUkol\ViceForm\ViceForm\obj\Debug\ViceForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\kubik\Source\Repos\ViceFormUkol\ViceForm\ViceForm\obj\Debug\ViceForm.Form1.resources
+C:\Users\kubik\Source\Repos\ViceFormUkol\ViceForm\ViceForm\obj\Debug\ViceForm.Form2.resources
+C:\Users\kubik\Source\Repos\ViceFormUkol\ViceForm\ViceForm\obj\Debug\ViceForm.Properties.Resources.resources
+C:\Users\kubik\Source\Repos\ViceFormUkol\ViceForm\ViceForm\obj\Debug\ViceForm.csproj.GenerateResource.cache
+C:\Users\kubik\Source\Repos\ViceFormUkol\ViceForm\ViceForm\obj\Debug\ViceForm.csproj.CoreCompileInputs.cache
+C:\Users\kubik\Source\Repos\ViceFormUkol\ViceForm\ViceForm\obj\Debug\ViceForm.exe
+C:\Users\kubik\Source\Repos\ViceFormUkol\ViceForm\ViceForm\obj\Debug\ViceForm.pdb
